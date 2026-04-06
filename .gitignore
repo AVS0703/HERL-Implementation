@@ -1,0 +1,12 @@
+# Virtual environment
+herl_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac files
+.DS_Storeherl_env/
+__pycache__/
+*.pyc
+
